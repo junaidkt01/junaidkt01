@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif" >
 
-<p align="left"> <a href="https://instagram.com/junaid___kt" target="blank"><img src="https://img.shields.io/twitter/follow/junaidkt?logo=twitter&style=for-the-badge" alt="junaidkt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/junaidkt01" target="blank"><img src="https://img.shields.io/twitter/follow/junaidkt?logo=twitter&style=for-the-badge" alt="junaidkt" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
