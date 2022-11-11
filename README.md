@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif" >
 
-<p align="left"> <a href="https://twitter.com/junaidkt" target="blank"><img src="https://img.shields.io/twitter/follow/junaidkt?logo=twitter&style=for-the-badge" alt="junaidkt" /></a> </p>
+<p align="left"> <a href="https://instagram.com/junaid___kt" target="blank"><img src="https://img.shields.io/twitter/follow/junaidkt?logo=twitter&style=for-the-badge" alt="junaidkt" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/junaidkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaidkt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahammed junaidkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahammed junaidkt" height="30" width="40" /></a>
-<a href="https://instagram.com/junaid__kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaid__kt" height="30" width="40" /></a>
+<a href="https://instagram.com/junaid___kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaid__kt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
